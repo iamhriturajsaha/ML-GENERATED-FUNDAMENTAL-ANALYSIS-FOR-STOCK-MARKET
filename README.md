@@ -102,7 +102,7 @@ Transform your financial analysis workflow with a pipeline that -
    🔴 Top Cons - Declining margins, High inventory, Market volatility
 💾 Results saved to database
 📈 Progress - 1/100 companies processed
-⏱️  Total Runtime: 2m 34s
+⏱️ Total Runtime - 2m 34s
 ✨ Pipeline completed successfully!
 ```
 ## 📊 Sample Analysis Output
