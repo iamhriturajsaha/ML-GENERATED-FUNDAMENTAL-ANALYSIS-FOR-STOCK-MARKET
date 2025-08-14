@@ -1,4 +1,4 @@
-# 🏦 ML-Powered Fundamental Analysis for Stock Market
+# 🏦ML-Powered Fundamental Analysis for Stock Market
 
 A comprehensive, production-ready pipeline that automates financial data processing, performs intelligent analysis and delivers real-time insights with beautiful terminal output.
 
@@ -170,3 +170,4 @@ The pipeline generates comprehensive financial insights including -
 - Company performance comparisons.
 - Historical pattern recognition.
 - Industry-wide financial health studies.
+
